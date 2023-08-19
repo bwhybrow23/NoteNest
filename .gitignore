@@ -1,0 +1,8 @@
+# Node
+node_modules/
+
+# DB
+notes.db
+
+# Logs
+logs/
