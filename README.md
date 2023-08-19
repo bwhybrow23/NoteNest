@@ -18,9 +18,9 @@
 NoteNest is a simple self-hosted API for creating/updating/deleting notes. There is still a lot of work to be put into this (not guaranteed), so feel free to contribute. 
 
 # To-do
-- [x] Authentication
-- [x] Web Interface
-- [x] Documentation
+- [ ] Authentication
+- [ ] Web Interface
+- [ ] Documentation
 
 # Installation
 1. Clone the repository
